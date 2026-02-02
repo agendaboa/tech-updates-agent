@@ -1,0 +1,11 @@
+# Configurable sources for tech updates.
+# List only topic names; no URLs. Feeds are built from topics (e.g. Google News search).
+
+max_items_per_run: 15
+summary_max_length: 160
+max_items_per_topic: 5
+
+# Topics to follow (any topic name; no URLs needed).
+topics:
+  - AI
+  - Machine Learning
